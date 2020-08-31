@@ -1,8 +1,8 @@
-# Flappy Bird - Game Programming Chapter 1
+# Pong - Game Programming Chapter 3
 ### by Sultan Ilyas Arsalillah Yuswan Syah
 
 
-This is a Flappy Bird game developed for education purposes and as an assignment for Agate Online Academy on Game Programming Batch 3 course.
+This is a Pong game developed for education purposes and as an assignment for Agate Online Academy on Game Programming Batch 3 course.
 
 
 
